@@ -17,6 +17,7 @@ namespace DemonstrationCritters
 
         public Send Logger { get; set; }
 
+        // The coolest comment ever
         public string Filepath { get; set; }
 
         public int EatSpeed { get; set; } = 5;
